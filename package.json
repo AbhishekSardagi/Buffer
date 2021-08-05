@@ -1,0 +1,20 @@
+{
+  "name": "buffer",
+  "version": "1.0.0",
+  "description": "Here we go with the replica of the website Buffer. With the skills and knowledge acquired over the period of 4 weeks, we were able to build the front-end with the bit of functionality of the Buffer Website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbhishekSardagi/Buffer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbhishekSardagi/Buffer/issues"
+  },
+  "homepage": "https://github.com/AbhishekSardagi/Buffer#readme"
+}
